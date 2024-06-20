@@ -19,6 +19,7 @@
  * 
  * resolução:
    short numeroCurto2 = (short)numeroNormal;
+<<<<<<< HEAD
 
    Constanste são valores armazenados em memoria que não podem ser modificados depois de definido, usando
    Final;
@@ -32,5 +33,4 @@ public class Tipos_Variaveis {
 
         System.out.println("Meu saldo é " + SALDO);
     }
-    
-}
+  }
