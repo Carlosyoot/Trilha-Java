@@ -32,5 +32,11 @@ public class Tipos_Variaveis {
         final double SALDO = 0;
 
         System.out.println("Meu saldo é " + SALDO);
+
+        // negar valor booleano
+
+        boolean teste = false;
+
+        System.out.println(!teste);
     }
   }
